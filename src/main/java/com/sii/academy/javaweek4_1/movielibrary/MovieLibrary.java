@@ -2,11 +2,10 @@ package com.sii.academy.javaweek4_1.movielibrary;
 
 import com.sii.academy.javaweek4_1.movielibrary.movie.Movie;
 
-import java.util.ArrayList;
 import java.util.List;
 
 public class MovieLibrary {
-    private List<Movie> movies = new ArrayList<>();
+    private List<Movie> movies;
 
     public MovieLibrary(List<Movie> movies) {
         this.movies = movies;

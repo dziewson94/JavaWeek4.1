@@ -1,8 +1,8 @@
 package com.sii.academy.javaweek4_1.movielibrary.movie;
 
+import com.sii.academy.javaweek4_1.movielibrary.movie.type.MovieType;
 import com.sii.academy.javaweek4_1.movielibrary.movie.worker.Actor;
 import com.sii.academy.javaweek4_1.movielibrary.movie.worker.Director;
-import com.sii.academy.javaweek4_1.movielibrary.movie.type.MovieType;
 
 import java.util.List;
 

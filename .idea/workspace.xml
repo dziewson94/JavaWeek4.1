@@ -4,30 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d5d46cc7-29dc-4da2-8835-d6926cd21341" name="Changes" comment="Init">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sii/academy/javaweek4_1/helpers/DataHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sii/academy/javaweek4_1/helpers/MovieHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sii/academy/javaweek4_1/helpers/SearchHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sii/academy/javaweek4_1/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sii/academy/javaweek4_1/movielibrary/MovieLibrary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sii/academy/javaweek4_1/movielibrary/movie/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sii/academy/javaweek4_1/movielibrary/movie/type/MovieType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sii/academy/javaweek4_1/movielibrary/movie/worker/Actor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sii/academy/javaweek4_1/movielibrary/movie/worker/Director.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sii/academy/javaweek4_1/movielibrary/movie/worker/MovieWorker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Movielibrary_JSON_Template.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/chatgptquery" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/movie-libraries/library1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/movie-libraries/library2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/movie-libraries/library3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/movie-libraries/library4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/movie-libraries/library5.txt" afterDir="false" />
+    <list default="true" id="d5d46cc7-29dc-4da2-8835-d6926cd21341" name="Changes" comment="Code upload">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sii/academy/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sii/academy/javaweek4_1/helpers/MovieHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sii/academy/javaweek4_1/helpers/MovieHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sii/academy/javaweek4_1/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sii/academy/javaweek4_1/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sii/academy/javaweek4_1/movielibrary/movie/type/MovieType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sii/academy/javaweek4_1/movielibrary/movie/type/MovieType.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,18 +40,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/mdziewa/IdeaProjects/MovieLibrary/src/main/resources/movielibraries&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "last_opened_file_path": "C:/Users/mdziewa/IdeaProjects/MovieLibrary/src/main/resources/movielibraries",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\mdziewa\IdeaProjects\MovieLibrary\src\main\resources\movielibraries" />
@@ -107,11 +89,19 @@
       <option name="project" value="LOCAL" />
       <updated>1677760938251</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Code upload">
+      <created>1678104330495</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678104330495</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init" />
-    <option name="LAST_COMMIT_MESSAGE" value="Init" />
+    <MESSAGE value="Code upload" />
+    <option name="LAST_COMMIT_MESSAGE" value="Code upload" />
   </component>
 </project>

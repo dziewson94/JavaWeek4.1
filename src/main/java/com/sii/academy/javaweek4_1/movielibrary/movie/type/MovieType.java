@@ -6,7 +6,7 @@ public enum MovieType {
     COMEDY("Comedy"),
     THRILLER("Thriller");
 
-    private String type;
+    private final String type;
 
     MovieType(String type) {
         this.type = type;

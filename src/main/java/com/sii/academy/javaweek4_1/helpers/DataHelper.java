@@ -16,9 +16,9 @@ final class DataHelper {
         return gsonParser.fromJson(fileContentAsJSONString, MovieLibrary.class);
     }
 
-    static List<MovieLibrary> loadPredefinedLibraries(String dirName) {
+    static List<MovieLibrary> loadPredefinedLibraries() {
         List<MovieLibrary> libraries = new ArrayList<>();
-        FileHelper.getResourceFolderFiles(dirName).forEach(el -> libraries.add(parseMovieLibraryFromJSONFile(el)));
+        FileHelper.getResourceFolderFiles("movie-libraries").forEach(el -> libraries.add(parseMovieLibraryFromJSONFile(el)));
         return libraries;
     }
 }

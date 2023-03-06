@@ -2,10 +2,10 @@ package com.sii.academy.javaweek4_1.main;
 
 import com.google.gson.Gson;
 import com.sii.academy.javaweek4_1.helpers.MovieHelper;
-import com.sii.academy.javaweek4_1.movielibrary.movie.worker.Actor;
 import com.sii.academy.javaweek4_1.movielibrary.MovieLibrary;
 import com.sii.academy.javaweek4_1.movielibrary.movie.Movie;
 import com.sii.academy.javaweek4_1.movielibrary.movie.type.MovieType;
+import com.sii.academy.javaweek4_1.movielibrary.movie.worker.Actor;
 import com.sii.academy.javaweek4_1.movielibrary.movie.worker.Director;
 
 import java.util.ArrayList;
@@ -25,10 +25,11 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         boolean finish = false;
         while (!finish) {
-            System.out.println("Select 1 to find movie in date rage\n" +
-                    "Select 2 to print random movie details\n" +
-                    "Select 3 to find actor all movies\n" +
-                    "4 to quit");
+            System.out.println("""
+                    Select 1 to find movie in date rage
+                    Select 2 to print random movie details
+                    Select 3 to find actor all movies
+                    4 to quit""");
             int x = scanner.nextInt();
             switch (x) {
                 case 1 -> {
@@ -38,9 +39,8 @@ public class Main {
                     int endDate = scanner.nextInt();
                     helper.findMoviesInDataRange(beginDate, endDate).forEach(System.out::println);
                 }
-                case 2 -> {
-                    helper.printRandomMovieDetail();
-                }
+                case 2 -> helper.printRandomMovieDetail();
+
                 case 3 -> {
                     System.out.println("Provide actor name");
                     String name = scanner.nextLine();
