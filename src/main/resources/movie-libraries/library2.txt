@@ -1,0 +1,220 @@
+{
+	"movies": [
+		{
+			"title": "The Curse of the Werewolf",
+			"releaseYear": 1982,
+			"director": {
+				"name": "Cody",
+				"lastName": "Mack"
+			},
+			"actorsList": [
+				{
+					"name": "Rick",
+					"lastName": "Kim"
+				},
+				{
+					"name": "Ralph",
+					"lastName": "Aguilar"
+				},
+				{
+					"name": "Cory",
+					"lastName": "Weeks"
+				},
+				{
+					"name": "Raymond",
+					"lastName": "Brock"
+				},
+				{
+					"name": "Leslie",
+					"lastName": "Miller"
+				},
+				{
+					"name": "Carlos",
+					"lastName": "Wright"
+				},
+				{
+					"name": "Kathryn",
+					"lastName": "Copeland"
+				},
+				{
+					"name": "Mario",
+					"lastName": "Morrison"
+				},
+				{
+					"name": "Randy",
+					"lastName": "Mack"
+				},
+				{
+					"name": "Ellen",
+					"lastName": "Kim"
+				}
+			],
+			"movieType": "HORROR"
+		},
+		{
+			"title": "The Last Witch Hunter",
+			"releaseYear": 2009,
+			"director": {
+				"name": "Clyde",
+				"lastName": "Vaughn"
+			},
+			"actorsList": [
+				{
+					"name": "Randy",
+					"lastName": "Weeks"
+				},
+				{
+					"name": "Brent",
+					"lastName": "Cooper"
+				},
+				{
+					"name": "Marilyn",
+					"lastName": "Lane"
+				},
+				{
+					"name": "Jacqueline",
+					"lastName": "Gonzalez"
+				},
+				{
+					"name": "Clyde",
+					"lastName": "Morrison"
+				},
+				{
+					"name": "Carol",
+					"lastName": "Weaver"
+				},
+				{
+					"name": "Randy",
+					"lastName": "Kelley"
+				},
+				{
+					"name": "Lori",
+					"lastName": "Lawrence"
+				},
+				{
+					"name": "Joe",
+					"lastName": "Gonzalez"
+				},
+				{
+					"name": "Raymond",
+					"lastName": "Wagner"
+				},
+				{
+					"name": "Paul",
+					"lastName": "Kelley"
+				}
+			],
+			"movieType": "ACTION"
+		},
+		{
+			"title": "A Night at the Opera",
+			"releaseYear": 1938,
+			"director": {
+				"name": "Earl",
+				"lastName": "Ramos"
+			},
+			"actorsList": [
+				{
+					"name": "Ann",
+					"lastName": "George"
+				},
+				{
+					"name": "Stephanie",
+					"lastName": "Fox"
+				},
+				{
+					"name": "Karen",
+					"lastName": "Morrison"
+				},
+				{
+					"name": "Cheryl",
+					"lastName": "Fuller"
+				},
+				{
+					"name": "Kimberly",
+					"lastName": "Robinson"
+				},
+				{
+					"name": "Randy",
+					"lastName": "Hamilton"
+				},
+				{
+					"name": "Lori",
+					"lastName": "Griffin"
+				},
+				{
+					"name": "Karen",
+					"lastName": "Price"
+				},
+				{
+					"name": "Ralph",
+					"lastName": "Thompson"
+				},
+				{
+					"name": "Catherine",
+					"lastName": "Gutierrez"
+				},
+				{
+					"name": "Justin",
+					"lastName": "Berry"
+				}
+			],
+			"movieType": "COMEDY"
+		},
+		{
+			"title": "The Wolfman",
+			"releaseYear": 2001,
+			"director": {
+				"name": "Shawn",
+				"lastName": "Gomez"
+			},
+			"actorsList": [
+				{
+					"name": "Karen",
+					"lastName": "Robinson"
+				},
+				{
+					"name": "Joseph",
+					"lastName": "Cox"
+				},
+				{
+					"name": "Randy",
+					"lastName": "Weber"
+				},
+				{
+					"name": "Theresa",
+					"lastName": "Baker"
+				},
+				{
+					"name": "Kathy",
+					"lastName": "Perez"
+				},
+				{
+					"name": "Earl",
+					"lastName": "Vaughn"
+				},
+				{
+					"name": "Randy",
+					"lastName": "Weaver"
+				},
+				{
+					"name": "Sarah",
+					"lastName": "Kim"
+				},
+				{
+					"name": "Carol",
+					"lastName": "Murphy"
+				},
+				{
+					"name": "Heather",
+					"lastName": "Morrison"
+				},
+				{
+					"name": "Lori",
+					"lastName": "Garrett"
+				}
+			],
+			"movieType": "THRILLER"
+		}
+	]
+}

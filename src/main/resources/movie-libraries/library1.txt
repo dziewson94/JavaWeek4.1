@@ -1,0 +1,157 @@
+{
+  "movies": [
+    {
+      "title": "The Great Escape",
+      "releaseYear": 2020,
+      "director": {
+        "name": "John",
+        "lastName": "Smith"
+      },
+      "actorsList": [
+        {
+          "name": "James",
+          "lastName": "Johnson"
+        },
+        {
+          "name": "Alex",
+          "lastName": "Williams"
+        },
+        {
+          "name": "David",
+          "lastName": "Brown"
+        },
+        {
+          "name": "Michael",
+          "lastName": "Miller"
+        },
+        {
+          "name": "Richard",
+          "lastName": "Davis"
+        },
+        {
+          "name": "Mark",
+          "lastName": "Wilson"
+        },
+        {
+          "name": "Joseph",
+          "lastName": "Moore"
+        },
+        {
+          "name": "Charles",
+          "lastName": "Taylor"
+        },
+        {
+          "name": "Thomas",
+          "lastName": "Anderson"
+        },
+        {
+          "name": "Christopher",
+          "lastName": "Thomas"
+        }
+      ],
+      "movieType": "ACTION"
+    },
+    {
+      "title": "The Fast and the Furious",
+      "releaseYear": 2003,
+      "director": {
+        "name": "Steven",
+        "lastName": "Jones"
+      },
+      "actorsList": [
+        {
+          "name": "Robert",
+          "lastName": "Taylor"
+        },
+        {
+          "name": "Daniel",
+          "lastName": "Anderson"
+        },
+        {
+          "name": "James",
+          "lastName": "Johnson"
+        },
+        {
+          "name": "Mark",
+          "lastName": "Wilson"
+        },
+        {
+          "name": "David",
+          "lastName": "Moore"
+        },
+        {
+          "name": "James",
+          "lastName": "Thomas"
+        },
+        {
+          "name": "Christopher",
+          "lastName": "Jackson"
+        },
+        {
+          "name": "Joseph",
+          "lastName": "White"
+        },
+        {
+          "name": "John",
+          "lastName": "Harris"
+        },
+        {
+          "name": "Richard",
+          "lastName": "Martin"
+        }
+      ],
+      "movieType": "ACTION"
+    },
+    {
+      "title": "The Hangover",
+      "releaseYear": 2009,
+      "director": {
+        "name": "Christopher",
+        "lastName": "Lee"
+      },
+      "actorsList": [
+        {
+          "name": "David",
+          "lastName": "Harris"
+        },
+        {
+          "name": "Robert",
+          "lastName": "Jackson"
+        },
+        {
+          "name": "Paul",
+          "lastName": "Martin"
+        },
+        {
+          "name": "James",
+          "lastName": "Taylor"
+        },
+        {
+          "name": "Mark",
+          "lastName": "White"
+        },
+        {
+          "name": "John",
+          "lastName": "Thompson"
+        },
+        {
+          "name": "Joseph",
+          "lastName": "Garcia"
+        },
+        {
+          "name": "Richard",
+          "lastName": "Martinez"
+        },
+        {
+          "name": "Daniel",
+          "lastName": "Robinson"
+        },
+        {
+          "name": "Christopher",
+          "lastName": "Clark"
+        }
+      ],
+      "movieType": "COMEDY"
+    }
+  ]
+}

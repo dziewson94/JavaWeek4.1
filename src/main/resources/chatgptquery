@@ -1,0 +1,5 @@
+create json object containing json array "movies" with 10-40 json objects movie. each movie contain "title" which is random generated movie title, "releaseYear" is random generated integer between 1930-2023,
+		 "director" is json object with random generated name and random generated lastName and "actorsList" is json array containing 10-30 json objects with random generated name and random generated lastName
+		 and "movieType" could be: "HORROR", "ACTION", "COMEDY","THRILLER" .
+
+

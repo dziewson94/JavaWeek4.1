@@ -1,0 +1,228 @@
+{
+	"movies": [
+		{
+			"title": "The Watcher in the Woods",
+			"releaseYear": 1993,
+			"director": {
+				"name": "Spencer",
+				"lastName": "Owens"
+			},
+			"actorsList": [
+				{
+					"name": "Hannah",
+					"lastName": "Barnes"
+				},
+				{
+					"name": "Joe",
+					"lastName": "Ramirez"
+				},
+				{
+					"name": "Molly",
+					"lastName": "McDonald"
+				},
+				{
+					"name": "Gavin",
+					"lastName": "Phillips"
+				},
+				{
+					"name": "Erica",
+					"lastName": "Chavez"
+				},
+				{
+					"name": "Trevor",
+					"lastName": "Rice"
+				},
+				{
+					"name": "Alicia",
+					"lastName": "Burns"
+				},
+				{
+					"name": "Erik",
+					"lastName": "Lane"
+				},
+				{
+					"name": "Madeline",
+					"lastName": "Robinson"
+				},
+				{
+					"name": "Samantha",
+					"lastName": "Roberts"
+				}
+			],
+			"movieType": "HORROR"
+		},
+		{
+			"title": "Fury Road",
+			"releaseYear": 2016,
+			"director": {
+				"name": "Ralph",
+				"lastName": "Garcia"
+			},
+			"actorsList": [
+				{
+					"name": "Jason",
+					"lastName": "Sanchez"
+				},
+				{
+					"name": "Rachel",
+					"lastName": "Ferguson"
+				},
+				{
+					"name": "Claire",
+					"lastName": "Watson"
+				},
+				{
+					"name": "Karen",
+					"lastName": "Phillips"
+				},
+				{
+					"name": "Ethan",
+					"lastName": "Baker"
+				},
+				{
+					"name": "Joseph",
+					"lastName": "Moore"
+				},
+				{
+					"name": "Chloe",
+					"lastName": "West"
+				},
+				{
+					"name": "Mackenzie",
+					"lastName": "Morris"
+				},
+				{
+					"name": "Natalie",
+					"lastName": "James"
+				},
+				{
+					"name": "Troy",
+					"lastName": "Carroll"
+				},
+				{
+					"name": "Ashley",
+					"lastName": "Edwards"
+				},
+				{
+					"name": "Eric",
+					"lastName": "Lopez"
+				},
+				{
+					"name": "Lauren",
+					"lastName": "Reed"
+				}
+			],
+			"movieType": "ACTION"
+		},
+		{
+			"title": "Big Trouble in Little China",
+			"releaseYear": 1986,
+			"director": {
+				"name": "Jenny",
+				"lastName": "Butler"
+			},
+			"actorsList": [
+				{
+					"name": "Alex",
+					"lastName": "Gardner"
+				},
+				{
+					"name": "Daniel",
+					"lastName": "Garcia"
+				},
+				{
+					"name": "Jack",
+					"lastName": "West"
+				},
+				{
+					"name": "Grace",
+					"lastName": "Henderson"
+				},
+				{
+					"name": "Olivia",
+					"lastName": "Simpson"
+				},
+				{
+					"name": "Nathan",
+					"lastName": "Wilson"
+				},
+				{
+					"name": "Ryan",
+					"lastName": "Cole"
+				},
+				{
+					"name": "Jacob",
+					"lastName": "Reynolds"
+				},
+				{
+					"name": "Gabriel",
+					"lastName": "Gibson"
+				},
+				{
+					"name": "Kaitlyn",
+					"lastName": "Harper"
+				},
+				{
+					"name": "Avery",
+					"lastName": "Brooks"
+				},
+				{
+					"name": "Anna",
+					"lastName": "Mendoza"
+				}
+			],
+			"movieType": "COMEDY"
+		},
+		{
+			"title": "The Revenant",
+			"releaseYear": 2015,
+			"director": {
+				"name": "Nathan",
+				"lastName": "Taylor"
+			},
+			"actorsList": [
+				{
+					"name": "Alexander",
+					"lastName": "Jones"
+				},
+				{
+					"name": "Isabella",
+					"lastName": "Miller"
+				},
+				{
+					"name": "Aaron",
+					"lastName": "Jackson"
+				},
+				{
+					"name": "Charlotte",
+					"lastName": "Carter"
+				},
+				{
+					"name": "Jenna",
+					"lastName": "Phillips"
+				},
+				{
+					"name": "Logan",
+					"lastName": "Turner"
+				},
+				{
+					"name": "Kayla",
+					"lastName": "Baker"
+				},
+				{
+					"name": "Ella",
+					"lastName": "Willis"
+				},
+				{
+					"name": "James",
+					"lastName": "Day"
+				},
+				{
+					"name": "Hailey",
+					"lastName": "Johnson"
+				}
+			],
+			"movieType": "THRILLER"
+		}
+	]
+}

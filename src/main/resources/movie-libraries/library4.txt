@@ -1,0 +1,126 @@
+{
+	"movies": [
+		{
+			"title": "The Great Adventure",
+			"releaseYear": 1982,
+			"director": {
+				"name": "Ella",
+				"lastName": "Cortez"
+			},
+			"actorsList": [
+				{
+					"name": "Marcus",
+					"lastName": "Turner"
+				},
+				{
+					"name": "Karen",
+					"lastName": "Price"
+				},
+				{
+					"name": "Cynthia",
+					"lastName": "Henderson"
+				},
+				{
+					"name": "Christina",
+					"lastName": "Lee"
+				},
+				{
+					"name": "Randy",
+					"lastName": "Hudson"
+				},
+				{
+					"name": "Darrell",
+					"lastName": "Reynolds"
+				},
+				{
+					"name": "Bobby",
+					"lastName": "Perez"
+				},
+				{
+					"name": "Dennis",
+					"lastName": "Ramirez"
+				},
+				{
+					"name": "Mildred",
+					"lastName": "Lopez"
+				},
+				{
+					"name": "Sandra",
+					"lastName": "Harrison"
+				},
+				{
+					"name": "Billy",
+					"lastName": "Mills"
+				},
+				{
+					"name": "Emily",
+					"lastName": "Lawrence"
+				}
+			],
+			"movieType": "ACTION"
+		},
+		{
+			"title": "The Lost War",
+			"releaseYear": 1966,
+			"director": {
+				"name": "Juan",
+				"lastName": "Robinson"
+			},
+			"actorsList": [
+				{
+					"name": "Barry",
+					"lastName": "Morrison"
+				},
+				{
+					"name": "Linda",
+					"lastName": "Gibson"
+				},
+				{
+					"name": "Randy",
+					"lastName": "Cox"
+				},
+				{
+					"name": "Gloria",
+					"lastName": "Carpenter"
+				},
+				{
+					"name": "Nancy",
+					"lastName": "Gonzalez"
+				},
+				{
+					"name": "Miguel",
+					"lastName": "Henderson"
+				},
+				{
+					"name": "Lillian",
+					"lastName": "Stephens"
+				},
+				{
+					"name": "Katherine",
+					"lastName": "Long"
+				},
+				{
+					"name": "Aaron",
+					"lastName": "Warren"
+				},
+				{
+					"name": "Julie",
+					"lastName": "Carr"
+				},
+				{
+					"name": "Bonnie",
+					"lastName": "Bishop"
+				},
+				{
+					"name": "Marilyn",
+					"lastName": "Rice"
+				},
+				{
+					"name": "Henry",
+					"lastName": "Matthews"
+				}
+			],
+			"movieType": "THRILLER"
+		}
+	]
+}

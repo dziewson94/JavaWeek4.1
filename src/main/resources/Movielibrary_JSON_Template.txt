@@ -1,0 +1,23 @@
+{
+  "movies": [
+    {
+      "title": "Not only moon, but whole country",
+      "releaseYear": 2015,
+      "director": {
+        "name": "GodJarro",
+        "lastName": "Quacklord"
+      },
+      "actorsList": [
+        {
+          "name": "Alan",
+          "lastName": "Dudniety"
+        },
+        {
+          "name": "Don",
+          "lastName": "Mateo"
+        }
+      ],
+      "movieType": "HORROR"
+    }
+  ]
+}

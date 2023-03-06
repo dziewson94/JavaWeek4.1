@@ -1,0 +1,268 @@
+		{
+			"movies": [
+				{
+					"title": "Nightmare Dreams",
+					"releaseYear": 1936,
+					"director": {
+						"name": "Randy",
+						"lastName": "Vasquez"
+					},
+					"actorsList": [
+						{
+							"name": "Herman",
+							"lastName": "McCarthy"
+						},
+						{
+							"name": "Lonnie",
+							"lastName": "Acosta"
+						},
+						{
+							"name": "Lane",
+							"lastName": "Merritt"
+						},
+						{
+							"name": "Rudy",
+							"lastName": "Stanton"
+						},
+						{
+							"name": "Dorothy",
+							"lastName": "Weaver"
+						},
+						{
+							"name": "Diane",
+							"lastName": "Hart"
+						},
+						{
+							"name": "Cecil",
+							"lastName": "Cain"
+						},
+						{
+							"name": "Lonnie",
+							"lastName": "Stokes"
+						},
+						{
+							"name": "Gwendolyn",
+							"lastName": "Clements"
+						},
+						{
+							"name": "Dennis",
+							"lastName": "Lang"
+						},
+						{
+							"name": "Eddie",
+							"lastName": "Ratliff"
+						},
+						{
+							"name": "Linda",
+							"lastName": "Harrison"
+						},
+						{
+							"name": "Roderick",
+							"lastName": "Mullins"
+						},
+						{
+							"name": "Karen",
+							"lastName": "Edwards"
+						},
+						{
+							"name": "Bobby",
+							"lastName": "Calderon"
+						}
+					],
+					"movieType": "HORROR"
+				},
+				{
+					"title": "Curse of the Vampires",
+					"releaseYear": 1981,
+					"director": {
+						"name": "Kenny",
+						"lastName": "Bennett"
+					},
+					"actorsList": [
+						{
+							"name": "Cheryl",
+							"lastName": "Kirby"
+						},
+						{
+							"name": "Lonnie",
+							"lastName": "Morris"
+						},
+						{
+							"name": "Marion",
+							"lastName": "Peters"
+						},
+						{
+							"name": "Theodore",
+							"lastName": "Lewis"
+						},
+						{
+							"name": "Lori",
+							"lastName": "Mullen"
+						},
+						{
+							"name": "Ralph",
+							"lastName": "Garcia"
+						},
+						{
+							"name": "Gene",
+							"lastName": "Roth"
+						},
+						{
+							"name": "Nina",
+							"lastName": "Owens"
+						},
+						{
+							"name": "Holly",
+							"lastName": "McLean"
+						},
+						{
+							"name": "Sharon",
+							"lastName": "Galloway"
+						},
+						{
+							"name": "Eleanor",
+							"lastName": "O'Connor"
+						},
+						{
+							"name": "Eddie",
+							"lastName": "Kane"
+						},
+						{
+							"name": "Marian",
+							"lastName": "Lambert"
+						},
+						{
+							"name": "Patricia",
+							"lastName": "Gibson"
+						}
+					],
+					"movieType": "ACTION"
+				},
+				{
+					"title": "The Cataclysmic Terror",
+					"releaseYear": 2003,
+					"director": {
+						"name": "Cory",
+						"lastName": "Bowers"
+					},
+					"actorsList": [
+						{
+							"name": "Dianne",
+							"lastName": "Pruitt"
+						},
+						{
+							"name": "Louis",
+							"lastName": "Lane"
+						},
+						{
+							"name": "Vernon",
+							"lastName": "Berger"
+						},
+						{
+							"name": "Lonnie",
+							"lastName": "Hendrix"
+						},
+						{
+							"name": "Curtis",
+							"lastName": "Bray"
+						},
+						{
+							"name": "Karen",
+							"lastName": "Mckinney"
+						},
+						{
+							"name": "Roderick",
+							"lastName": "Hobbs"
+						},
+						{
+							"name": "Tina",
+							"lastName": "Gates"
+						},
+						{
+							"name": "Lonnie",
+							"lastName": "Mullen"
+						},
+						{
+							"name": "Randy",
+							"lastName": "Faulkner"
+						},
+						{
+							"name": "Lonnie",
+							"lastName": "Ratliff"
+						},
+						{
+							"name": "Kathleen",
+							"lastName": "Lambert"
+						},
+						{
+							"name": "Randy",
+							"lastName": "Puckett"
+						}
+					],
+					"movieType": "COMEDY"
+				},
+				{
+					"title": "The Fog of Death",
+					"releaseYear": 1984,
+					"director": {
+						"name": "Darnell",
+						"lastName": "Kirkland"
+					},
+					"actorsList": [
+						{
+							"name": "Randy",
+							"lastName": "Stevens"
+						},
+						{
+							"name": "Dennis",
+							"lastName": "Thompson"
+						},
+						{
+							"name": "Rudy",
+							"lastName": "Gross"
+						},
+						{
+							"name": "Kathleen",
+							"lastName": "Coffey"
+						},
+						{
+							"name": "Marian",
+							"lastName": "Lambert"
+						},
+						{
+							"name": "Cecil",
+							"lastName": "May"
+						},
+						{
+							"name": "Marian",
+							"lastName": "Lane"
+						},
+						{
+							"name": "Cheryl",
+							"lastName": "Kirby"
+						},
+						{
+							"name": "Lori",
+							"lastName": "Briggs"
+						},
+						{
+							"name": "Cecil",
+							"lastName": "McCarthy"
+						},
+						{
+							"name": "Lori",
+							"lastName": "Merritt"
+						},
+						{
+							"name": "Howard",
+							"lastName": "Merritt"
+						},
+						{
+							"name": "Ronnie",
+							"lastName": "Ratliff"
+						}
+					],
+					"movieType": "THRILLER"
+				}
+			]
+		}
